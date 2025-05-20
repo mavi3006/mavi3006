@@ -1,5 +1,6 @@
 Olá! Eu sou a Mavi 👋
 🎓 **Estudante** do curso técnico em Inteligência Artificial no Colégio FECAP.
+
 💡 Em constante aprendizado nas linguagens **Python** e **R**, com foco em **inteligência artificial**, **automação** e **análise de dados**.
 
 🧠 Interesses
